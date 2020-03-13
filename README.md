@@ -15,10 +15,19 @@ The app will automatically save the gameplays video in your local drive with fol
 # Info
 The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the championIcon image found in the frame then the code will return the champion name. If the championIcon not found. It will return an undefined championIcon.jpg. We will have to mannually add the undefined Champion Icon Image into [Champion Icon Library](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/Screenshots/championIconLibrary.jpg "Champion Icon Library Screenshot")
 
-![frame.jpg](/Screenshots/frame.jpg)
+![frame.jpg captured from video frame](/Screenshots/frame.jpg)
 frame.jpg<br/><br/>
-![championIcon.jpg](/Screenshots/championIcon.jpg)<br/>
+![championIcon.jpg cropped from frame.jpg](/Screenshots/championIcon.jpg)<br/>
 championIcon.jpg
+
+# Run the code
+1. Download [lolVideoAutoCategory.zip](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/lolVideoAutoCategory.rar "lolVideoAutoCategory")
+2. Extract the file<br/>
+![File list of lolVideoAutoCategory.zip](/Screenshots/codeFiles.jpg)<br/>
+3. Run lolVideoAutoCategory.py<br/>
+   Enter root video folder path<br/>
+   Enter new video storage folder path<br/>
+![Running lolVideoAutoCategory.py](/GIF/runningCode.gif)<br/>
 
 # To Do List
 make champion detection function more accurate<br/>
