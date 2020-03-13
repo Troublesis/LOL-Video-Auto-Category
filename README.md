@@ -13,7 +13,7 @@ The app will automatically save the gameplays video in your local drive with fol
 ![](/GIF/lolVideoDetectCodeRunningSample.gif)
 
 # Info
-The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the championIcon image found in the frame then the code will return the champion name. If the championIcon not found. It will return an undefined championIcon.jpg. We will have to mannually add the undefined Champion Icon Image into [Champion Icon Library](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/Screenshots/championIconLibrary.jpg "Champion Icon Library Screenshot")
+The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the championIcon image found in the frame then the code will return the champion name. If the championIcon not found. It will return an undefined championIcon.jpg. We will have to mannually add the undefined Champion Icon Image into [Champion Icon Folder](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/Screenshots/championIconLibrary.jpg "Champion Icon Folder Screenshot")
 
 ![frame.jpg captured from video frame](/Screenshots/frame.jpg)
 frame.jpg<br/><br/>
