@@ -21,7 +21,7 @@ frame.jpg<br/><br/>
 championIcon.jpg
 
 # Run the code
-1. Download [lolVideoAutoCategory.zip](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/lolVideoAutoCategory.rar "lolVideoAutoCategory")
+1. Download [lolVideoAutoCategory.zip](https://github.com/Troublesis/LOL-Video-Auto-Category/blob/master/lolVideoAutoCategory.zip "lolVideoAutoCategory")
 2. Extract the file<br/>
 ![File list of lolVideoAutoCategory.zip](/Screenshots/codeFiles.jpg)<br/>
 3. Run lolVideoAutoCategory.py<br/>
