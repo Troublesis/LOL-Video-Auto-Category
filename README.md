@@ -12,7 +12,7 @@ The app will automatically save the game in your local drive with folder name fo
 ![](lolVideoDetectCodeRunningSample.gif)
 
 # Info
-The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the image found match in the frame then the code will return the champion name.
+The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the championIcon image found in the frame then the code will return the champion name. If the championIcon not found. It will return an undefined championIcon.jpg. We will have to mannually add this new championIcon into [championIcon Library](https://www.google.com "championIcon Library")
 
 ![frame.jpg](frame.jpg)
 frame.jpg<br/><br/>
