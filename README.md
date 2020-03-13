@@ -8,15 +8,15 @@ The app will automatically save the game in your local drive with folder name fo
 
 =========================================
 
-Code info:
+# Code info:
 
-Known Issues:
+#Known Issues:
 
-To Do List: 
+# To Do List: 
 make champion detection function more accurate
 detect all champions in the video
 detect final kda in the video
 detect more game mode (eg. urf/teamfight tactics)
 
 # Code Running Sample:
-![](lolVideoDetect.gif)
+![](lolVideoDetectCodeRunningSample.gif)
