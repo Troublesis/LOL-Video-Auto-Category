@@ -28,13 +28,3 @@ championIcon.jpg
    Enter root video folder path<br/>
    Enter new video storage folder path<br/>
 ![Running lolVideoAutoCategory.py](/GIF/runningCode.gif)<br/>
-
-# To Do List
-make champion detection function more accurate<br/>
-detect all champions in the video<br/>
-detect final kda in the video<br/>
-detect more game mode (eg. urf/teamfight tactics)<br/>
-
-# Known Issues
-* I marked in the comments in the code as 'fix:' 'error:' with some known issues
-* error: when the selected video is not accessable the code will be terminated
