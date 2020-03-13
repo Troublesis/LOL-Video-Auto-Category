@@ -8,9 +8,13 @@ The app will automatically save the game in your local drive with folder name fo
 
 =========================================
 
-# Code info:
+# Code Running Sample:
+![](lolVideoDetectCodeRunningSample.gif)
 
-#Known Issues:
+The code is detecting champion based on the frame.jpg image capture from the detecting video and campare the champion icon in the image with the full champion icons library. If the image found match in the frame then the code will return the champion name.
+
+![frame.jpg](frame.jpg)
+![championIcon.jpg](championIcon.jpg)
 
 # To Do List: 
 make champion detection function more accurate
@@ -18,5 +22,4 @@ detect all champions in the video
 detect final kda in the video
 detect more game mode (eg. urf/teamfight tactics)
 
-# Code Running Sample:
-![](lolVideoDetectCodeRunningSample.gif)
+# Known Issues:
