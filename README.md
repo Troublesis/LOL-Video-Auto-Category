@@ -10,3 +10,5 @@ make champion detection function more accurate
 detect all champions in the video
 detect final kda in the video
 detect more game mode (eg. urf/teamfight tactics)
+
+![](test_2020-03-13_Fri_13-54.gif)
